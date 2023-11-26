@@ -29,6 +29,7 @@ a=eval(input())
 n=int(input())
 ```
 ## Output:
-![Output](/circulate%20output.png)
+![circulate output](https://github.com/Shruthidn27/Circulate-the-values-of-N-variables/assets/138849783/206fa68d-9f9b-4d0d-9169-b1d4bc376d2d)
+
 ## Result:
 The output for circulate the values of n variables is successfull.
